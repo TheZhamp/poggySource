@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pennyMenu.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pennyMenu0000" x="0" y="0" width="719" height="751"/>
+	<SubTexture name="pennyMenu0001" x="0" y="0" width="719" height="751"/>
+	<SubTexture name="pennyMenu0002" x="0" y="0" width="719" height="751"/>
+	<SubTexture name="pennyMenu0003" x="719" y="0" width="719" height="751"/>
+	<SubTexture name="pennyMenu0004" x="719" y="0" width="719" height="751"/>
+	<SubTexture name="pennyMenu0005" x="719" y="0" width="719" height="751"/>
+</TextureAtlas>
